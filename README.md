@@ -1,6 +1,6 @@
 # 💫 About Me:
-Software Engineer @ 100Devs
-Intelligence Professional @ Dept. of Defense
+Software Engineer @ 100Devs/
+Intelligence Professional @ Dept. of Defense/
 Executive Director @ Adaptive Climbing Coalition
 
 
