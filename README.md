@@ -1,7 +1,7 @@
-# 💫 About Me:
-Software Engineer @ 100Devs/
-Intelligence Professional @ Dept. of Defense/
-Executive Director @ Adaptive Climbing Coalition
+# 💫 Hi, I'm Joe
+Software Engineer @ 100Devs<br>
+Intelligence Professional @ Dept. of Defense<br>
+Executive Director @ Adaptive Climbing Coalition<br>
 
 
 ## 🌐 Socials:
