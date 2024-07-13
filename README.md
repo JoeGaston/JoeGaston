@@ -1,10 +1,10 @@
-# 💫 Hi, I'm Joe
+# :wave: Hi, I'm Joe
 Software Engineer @ 100Devs<br>
 Intelligence Professional @ Dept. of Defense<br>
 Executive Director @ Adaptive Climbing Coalition<br>
 
 
-## 🌐 Socials:
+## 🌐 Find me on:
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/git_alpine) 
 
 # 💻 Tech I Use:
