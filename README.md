@@ -1,7 +1,6 @@
 # :wave: Hi, I'm Joe
 Software Engineer @ 100Devs<br>
 Intelligence Professional @ Dept. of Defense<br>
-Executive Director @ Adaptive Climbing Coalition<br>
 
 
 ## 🌐 Find me on:
