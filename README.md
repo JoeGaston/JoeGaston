@@ -1,5 +1,5 @@
 # :wave: Hi, I'm Joe
-Software Engineer @ 100Devs<br>
+Software Engineer <br>
 Intelligence Professional @ Dept. of Defense<br>
 
 
