@@ -1,6 +1,5 @@
 # :wave: Hi, I'm Joe
-Software Engineer <br>
-Intelligence Professional @ Dept. of Defense<br>
+Software Engineer & Intelligence Professional @ Dept. of Defense<br>
 
 
 # 💻 Tech I Use:
